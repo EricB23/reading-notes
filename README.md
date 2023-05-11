@@ -12,4 +12,4 @@
 
 ### My name is Eric Baxter and it's an honor to learn and grow and work with all of you
 
-[My repository](https://github.com/EricB23) 
+[My Profile](https://github.com/EricB23) 
