@@ -13,3 +13,5 @@
 ### My name is Eric Baxter and it's an honor to learn and grow and work with all of you
 
 [My Profile](https://github.com/EricB23) 
+
+[Table of Contents](https://github.com/EricB23/reading-notes/blob/main/Table%20of%20Contents)
