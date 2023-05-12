@@ -12,3 +12,5 @@ My reading notes for course 102
 ### My name is Eric Baxter and it's an honor to learn and grow and work with all of you
 
  [My Profile](https://github.com/EricB23) 
+
+[My Table of Contents]()

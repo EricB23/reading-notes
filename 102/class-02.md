@@ -20,5 +20,3 @@ Can you explain what is happening in the following scenario if these commands an
 3. touch new-project/newfile.md - update modification date of the file new-project/newfile.md.
 4. cd .. - Show the current directory.
 5. ls projects/new-project - locate the project the under the name of new-project.
-
-
