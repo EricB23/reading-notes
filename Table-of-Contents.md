@@ -2,3 +2,4 @@
 
 Below are links to different courses and their classes.
 
+[class-02](https://EricB23.github.io/reading-notes/class-02)
