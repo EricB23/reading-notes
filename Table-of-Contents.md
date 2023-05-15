@@ -2,4 +2,10 @@
 
 Below are links to different courses and their classes.
 
-[class-02](https://EricB23.github.io/reading-notes/class-02)
+## Code 102 Reading Notes
+
+[102] ()
+
+## Code 201 Reading Notes
+
+[201] ()
