@@ -15,3 +15,17 @@ When the specified condition evaluates to false during the loop.
 ## How many times will a while loop execute?
 
 The statement will execute as long as the specified condition will equate to being true.
+
+### Primary Expression
+
+23;
+'Hello World';
+true;
+sum;
+this;
+
+### Logical expression
+
+10 > 9 = true
+
+10 < 20 = true

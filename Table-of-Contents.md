@@ -22,7 +22,7 @@ Below are links to different courses and their classes.
 
 ## Code 201 Reading Notes
 
-[Upcoming Reading Notes](https://link/to/reading-file)
+[Reading Notes Class 1](https://link/to/reading-file)
 
 [Upcoming Reading Notes](https://link/to/reading-file)
 
