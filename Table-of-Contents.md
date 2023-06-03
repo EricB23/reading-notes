@@ -22,9 +22,9 @@ Below are links to different courses and their classes.
 
 ## Code 201 Reading Notes
 
-[Reading Notes Class 1](https://link/to/reading-file)
+[Reading Notes Class 1](https://ericb23.github.io/Reading-Notes/201/class-01)
 
-[Upcoming Reading Notes](https://link/to/reading-file)
+[Reading Notes Class 2](https://ericb23.github.io/Reading-Notes/201/class-02)
 
 [Upcoming Reading Notes](https://link/to/reading-file)
 
