@@ -32,7 +32,7 @@ Below are links to different courses and their classes.
 
 [Reading Notes Class 5](https://Ericb23.github.io/reading-notes/201/class-05)
 
-[Upcoming Reading Notes](https://link/to/reading-file)
+[Reading Notes Class 6](https://Ericb23.github.io/reading-notes/201/class-06)
 
 [Upcoming Reading Notes](https://link/to/reading-file)
 
