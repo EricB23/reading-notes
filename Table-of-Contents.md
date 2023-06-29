@@ -38,8 +38,7 @@ Below are links to different courses and their classes.
 
 [Reading Notes Class 8](https://Ericb23.github.io/reading-notes/201/class-08)
 
-[Upcoming Reading Notes](https://link/to/reading-file)
-
+[Reading Notes Class 9](https://Ericb23.github.io/reading-notes/201/class-09)
 [Upcoming Reading Notes](https://link/to/reading-file)
 
 [Upcoming Reading Notes](https://link/to/reading-file)
