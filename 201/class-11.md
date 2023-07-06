@@ -26,7 +26,9 @@ Item would be the the child element that's connected to the container element in
 
 Grid line is the dividing lines that make up the structure of the grid. They can appear vertical or horizontal and reside on either side of a row or column.
 
-Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+## Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+
+User may be visually impaired and responsive images can be helpful to increase the size of the image and/or let the user know what the image is.
 
 ## Define the following <img> attributes srcset and sizes. Write an example of how they are used
 
