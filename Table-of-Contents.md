@@ -44,7 +44,7 @@ Below are links to different courses and their classes.
 
 [Reading Notes Class 11](https://Ericb23.github.io/reading-notes/201/class-11)
 
-[Upcoming Reading Notes](https://link/to/reading-file)
+[Reading Notes Class 12](https://Ericb23.github.io/reading-notes/201/class-12)
 
 [Upcoming Reading Notes](https://link/to/reading-file)
 
