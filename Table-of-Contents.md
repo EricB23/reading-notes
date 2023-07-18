@@ -47,8 +47,7 @@ Below are links to different courses and their classes.
 [Reading Notes Class 12](https://Ericb23.github.io/reading-notes/201/class-12)
 
 [Reading Notes Class 13](https://Ericb23.github.io/reading-notes/201/class-13)
+
 [Reading Notes Class 14](https://Ericb23.github.io/reading-notes/201/class-14)
 
 [Reading Notes Class 14 Psych-safety](https://Ericb23.github.io/reading-notes/201/class-14-psych-safety)
-
-[Upcoming Reading Notes](https://link/to/reading-file)
