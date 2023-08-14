@@ -4,7 +4,7 @@
 
 It allows the developer to work out of two settings. 2-d and 3-d. Both of these settings come with their own seperate properties.
 
-## Provide an example of a transform and how you could see that being used on a website.
+## Provide an example of a transform and how you could see that being used on a website
 
 The 'pop' effect makes images and words stand out on a webpage. I could use that effect to make an image be the main attraction on a website if I was having a sale.
 

@@ -51,3 +51,7 @@ Below are links to different courses and their classes.
 [Reading Notes Class 14](https://Ericb23.github.io/reading-notes/201/class-14)
 
 [Reading Notes Class 14 Psych-safety](https://Ericb23.github.io/reading-notes/201/class-14-psych-safety)
+
+## Code 301 Reading Notes
+
+[Reading Notes Class 1](https://Ericb23.github.io/reading-notes/301/class-01)
