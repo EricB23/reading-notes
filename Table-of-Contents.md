@@ -55,3 +55,5 @@ Below are links to different courses and their classes.
 ## Code 301 Reading Notes
 
 [Reading Notes Class 1](https://Ericb23.github.io/reading-notes/301/class-01)
+
+[Reading Notes Class 2](https://Ericb23.github.io/reading-notes/301/class-02)
