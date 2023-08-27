@@ -59,3 +59,5 @@ Below are links to different courses and their classes.
 [Reading Notes Class 2](https://Ericb23.github.io/reading-notes/301/class-02)
 
 [Reading Notes Class 3](https://Ericb23.github.io/reading-notes/301/class-03)
+
+[Reading Notes Class 4](https://Ericb23.github.io/reading-notes/301/class-04)

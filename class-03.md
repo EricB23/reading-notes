@@ -8,7 +8,7 @@ Returns a new array from calling a function for every array element.
 
 Use curly braces and map function.
 
-## Each list item needs a unique \_\_\_\_.
+## Each list item needs a unique?
 
 Key
 
@@ -20,11 +20,11 @@ Keys help React identify which items have changed, are added, or are removed.
 
 Spread syntax allows an iterable, such as an array or string, to be expanded in places where zero or more arguments or elements are expected.
 
-## List 4 things that the spread operator can do.
+## List 4 things that the spread operator can do
 
 It can be used to concatenate arrays, create shallow copies of arrays, convert strings into arrays of characters, merge or clone objects, and dynamically pass values into functions or constructors, among other use cases.
 
-## Give an example of using the spread operator to combine two arrays.
+## Give an example of using the spread operator to combine two arrays
 
 const join = [...team, ...captain];
 
@@ -48,6 +48,6 @@ It takes variables and changes their value.
 
 Props
 
-## How does the child component invoke a method that was passed to it from a parent component? Pass the function reference to the child component as a prop.
+## How does the child component invoke a method that was passed to it from a parent component? Pass the function reference to the child component as a prop
 
 Then you can call that parent's function from the child component like props.parentMethodName().
